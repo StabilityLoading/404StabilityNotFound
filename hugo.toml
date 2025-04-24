@@ -1,0 +1,4 @@
+baseURL = 'https://stabilityloading.github.io/404StabilityNotFound/'
+languageCode = 'en-us'
+title = '404: Stability Loading'
+theme = 'ananke'
